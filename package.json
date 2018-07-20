@@ -1,0 +1,14 @@
+{
+  "name": "node_up",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Andyt-Nguyen/node_up.git",
+  "author": "Andrew Ty Nguyen <andyt.nguyen123@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
